@@ -1,5 +1,5 @@
 {   "name":"Smiley", 
-    "spots":5,
+    "spots":6,
     "members":[{
         "name": "John Doe",
         "email":"john1@gmail.something",
@@ -22,7 +22,7 @@
         "id":4
     },{
         "name": "John Noe",
-        "email":"john4@gmail.something",
+        "email":"john5@gmail.something",
         "status": "Active",
         "id":4
     }
